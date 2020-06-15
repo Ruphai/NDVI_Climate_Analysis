@@ -1,0 +1,47 @@
+Abuja
+NDVI and Rainfall
+ -0.05120064
+NDVI and Temperature
+-0.5114924
+
+Benin
+NDVI and Rainfall
+-0.04110629
+NDVI and Temperature
+-0.4853087
+
+Ibadan
+NDVI and Rainfall
+-0.2426509
+NDVI and Temperature
+-0.5391304
+
+Ilorin
+NDVI and Rainfall
+0.07186554
+NDVI and Temperature
+-0.4300171
+
+Kano
+NDVI and Rainfall
+0.1811078
+NDVI and Temperature
+0.003098359
+
+Lagos
+NDVI and Rainfall
+-0.02513231
+NDVI and Temperature
+-0.2852441
+
+PH
+NDVI and Rainfall
+0.1602439
+NDVI and Temperature
+-0.381827
+
+Sokoto
+NDVI and Rainfall
+0.3414617
+NDVI and Temperature
+-0.08500995

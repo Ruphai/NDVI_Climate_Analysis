@@ -1,0 +1,166 @@
+Abuja
+Call:
+lm(formula = ndvi ~ RR + Tmax, data = nd_rr_tmax_abuja)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.072911 -0.031443 -0.003765  0.029317  0.097581 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  3.134e+00  7.177e-01   4.367 9.38e-05 ***
+RR          -2.935e-05  5.122e-05  -0.573 0.570048    
+Tmax        -8.210e-02  2.212e-02  -3.711 0.000658 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.04154 on 38 degrees of freedom
+Multiple R-squared:  0.2679,	Adjusted R-squared:  0.2294 
+F-statistic: 6.954 on 2 and 38 DF,  p-value: 0.002669
+
+
+Benin
+Call:
+lm(formula = NDVI ~ RR + Tmax, data = nd_rr_tmax_benin)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.068836 -0.015991  0.003425  0.021029  0.074183 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  2.434e+00  5.437e-01   4.476 7.36e-05 ***
+RR          -4.428e-05  3.534e-05  -1.253 0.218284    
+Tmax        -5.989e-02  1.657e-02  -3.614 0.000914 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.03345 on 36 degrees of freedom
+Multiple R-squared:  0.2675,	Adjusted R-squared:  0.2268 
+F-statistic: 6.572 on 2 and 36 DF,  p-value: 0.003688
+
+
+Ibadan
+Call:
+lm(formula = ndvi ~ RR + Tmax, data = nd_rr_tmax_ibadan)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.088237 -0.038269  0.004577  0.032837  0.131064 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  3.936e+00  7.487e-01   5.258 6.82e-06 ***
+RR          -1.211e-04  4.747e-05  -2.551   0.0151 *  
+Tmax        -1.043e-01  2.310e-02  -4.517 6.51e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.0516 on 36 degrees of freedom
+Multiple R-squared:  0.3993,	Adjusted R-squared:  0.3659 
+F-statistic: 11.96 on 2 and 36 DF,  p-value: 0.0001037
+
+
+Ilorin
+Call:
+lm(formula = NDVI ~ RR + Tmax, data = nd_rr_tmax_ilorin)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.051405 -0.013041  0.001362  0.014558  0.043238 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.400e+00  3.438e-01   4.074 0.000243 ***
+RR          -1.191e-05  3.020e-05  -0.394 0.695622    
+Tmax        -2.948e-02  1.034e-02  -2.851 0.007169 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.0217 on 36 degrees of freedom
+Multiple R-squared:  0.1884,	Adjusted R-squared:  0.1433 
+F-statistic: 4.179 on 2 and 36 DF,  p-value: 0.02333
+
+
+Kano
+Call:
+lm(formula = NDVI ~ RR + Tmax, data = nd_rr_tmax_kano)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.035954 -0.008879 -0.003218  0.008780  0.078571 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)
+(Intercept)  3.246e-01  2.003e-01   1.620    0.114
+RR           2.395e-05  2.146e-05   1.116    0.272
+Tmax        -9.291e-04  5.914e-03  -0.157    0.876
+
+Residual standard error: 0.01828 on 36 degrees of freedom
+Multiple R-squared:  0.03346,	Adjusted R-squared:  -0.02023 
+F-statistic: 0.6232 on 2 and 36 DF,  p-value: 0.5419
+
+
+Lagos
+Call:
+lm(formula = NDVI ~ RR + Tmax, data = nd_rr_tmax_lagos)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.148590 -0.017435  0.000292  0.033720  0.100051 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)  
+(Intercept)  1.687e+00  7.324e-01   2.303   0.0271 *
+RR          -1.215e-05  4.016e-05  -0.303   0.7640  
+Tmax        -4.158e-02  2.302e-02  -1.806   0.0792 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.051 on 36 degrees of freedom
+Multiple R-squared:  0.08369,	Adjusted R-squared:  0.03279 
+F-statistic: 1.644 on 2 and 36 DF,  p-value: 0.2074
+
+
+Port Harcourt
+Call:
+lm(formula = NDVI ~ RR + Tmax, data = nd_rr_tmax_ph)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.06853 -0.02590  0.00231  0.02592  0.06303 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)   
+(Intercept)  1.849e+00  6.599e-01   2.803  0.00811 **
+RR           2.468e-05  4.150e-05   0.595  0.55573   
+Tmax        -4.777e-02  2.043e-02  -2.338  0.02507 * 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.03646 on 36 degrees of freedom
+Multiple R-squared:  0.1541,	Adjusted R-squared:  0.1071 
+F-statistic: 3.279 on 2 and 36 DF,  p-value: 0.04917
+
+
+Sokoto
+Call:
+lm(formula = NDVI ~ RR + Tmax, data = nd_rr_tmax_sokoto)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.050407 -0.009085 -0.001422  0.010926  0.094585 
+
+Coefficients:
+              Estimate Std. Error t value Pr(>|t|)  
+(Intercept)  3.768e-01  2.782e-01   1.355   0.1840  
+RR           8.778e-05  4.009e-05   2.190   0.0351 *
+Tmax        -4.237e-03  7.726e-03  -0.548   0.5868  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.02292 on 36 degrees of freedom
+Multiple R-squared:  0.1239,	Adjusted R-squared:  0.07524 
+F-statistic: 2.546 on 2 and 36 DF,  p-value: 0.09243
+
+

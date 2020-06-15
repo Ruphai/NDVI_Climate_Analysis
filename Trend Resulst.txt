@@ -1,0 +1,461 @@
+NDVI	NDVI	NDVI	NDVI	NDVI	NDVI
+===============================================================================================================
+Mann-Kendall trend test: Abuja
+data:  nd_rr_tmax_abuja$ndvi
+z = -5.4264, n = 41, p-value = 5.75e-08
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+-484.0000000 7922.6666667   -0.5916888
+
+
+Sen's slope: Abuja
+data:  nd_rr_tmax_abuja$ndvi
+z = -5.4264, n = 41, p-value = 5.75e-08
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -0.004018235 -0.002625574
+sample estimates:
+ Sen's slope 
+-0.003347549
+
+
+Mann-Kendall trend test: Benin
+data:  nd_rr_tmax_benin$NDVI
+z = -3.8952, n = 39, p-value = 9.812e-05
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+-323.0000000 6833.6666667   -0.4358974 
+
+
+Sen's slope: Benin
+data:  nd_rr_tmax_benin$NDVI
+z = -3.8952, n = 39, p-value = 9.812e-05
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -0.003120909 -0.001066000
+sample estimates:
+ Sen's slope 
+-0.002221935
+
+
+Mann-Kendall trend test: Ibadan
+data:  nd_rr_tmax_ibadan$ndvi
+z = -5.8549, n = 39, p-value = 4.773e-09
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+-485.0000000 6833.6666667   -0.6545209 
+
+Sen's slope: Ibadan
+data:  nd_rr_tmax_ibadan$ndvi
+z = -5.8549, n = 39, p-value = 4.773e-09
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -0.006320374 -0.003600674
+sample estimates:
+ Sen's slope 
+-0.004807066
+
+Mann-Kendall trend test: Ilorin
+data:  nd_rr_tmax_ilorin$NDVI
+z = -2.2016, n = 39, p-value = 0.02769
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+-183.0000000 6833.6666667   -0.2469636
+
+Sen's slope: Ilorin
+data:  nd_rr_tmax_ilorin$NDVI
+z = -2.2016, n = 39, p-value = 0.02769
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -1.471870e-03 -3.177942e-05
+sample estimates:
+  Sen's slope 
+-0.0008414697
+
+Mann-Kendall trend test: Kano
+data:  nd_rr_tmax_kano$NDVI
+z = 0.78635, n = 39, p-value = 0.4317
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+6.600000e+01 6.832667e+03 8.912899e-02
+
+Sen's slope: Kano
+data:  nd_rr_tmax_kano$NDVI
+z = 0.78635, n = 39, p-value = 0.4317
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -0.0002999165  0.0006580350
+sample estimates:
+ Sen's slope 
+0.0001857269
+
+Mann-Kendall trend test: Lagos
+data:  nd_rr_tmax_lagos$NDVI
+z = -0.95572, n = 39, p-value = 0.3392
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ -80.0000000 6832.6666667   -0.1080351
+
+Sen's slope: Lagos
+data:  nd_rr_tmax_lagos$NDVI
+z = -0.95572, n = 39, p-value = 0.3392
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -0.0025087182  0.0006669629
+sample estimates:
+ Sen's slope 
+-0.000909381
+
+
+Mann-Kendall trend test: PH
+data:  nd_rr_tmax_ph$NDVI
+z = -3.194, n = 39, p-value = 0.001403
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+-265.0000000 6831.6666667   -0.3581084
+
+Sen's slope: PH
+data:  nd_rr_tmax_ph$NDVI
+z = -3.194, n = 39, p-value = 0.001403
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -0.0029878568 -0.0008654545
+sample estimates:
+ Sen's slope 
+-0.00203466
+
+Mann-Kendall trend test: Sokoto
+data:  nd_rr_tmax_sokoto$NDVI
+z = -0.37503, n = 39, p-value = 0.7076
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+            S          varS           tau 
+ -32.00000000 6832.66666667   -0.04321405
+
+Sen's slope: Sokoto
+data:  nd_rr_tmax_sokoto$NDVI
+z = -0.37503, n = 39, p-value = 0.7076
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -0.0006924286  0.0005825000
+sample estimates:
+  Sen's slope 
+-0.000103703
+
+
+RAINFALL	RAINFALL	RAINFALL	RAINFALL
+========================================================================================================================
+Mann-Kendall trend test: Abuja
+data:  nd_rr_tmax_abuja$RR
+z = 1.8591, n = 41, p-value = 0.06301
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 166.0000000 7876.6666667    0.2057268
+
+Sen's slope: Abuja
+data:  nd_rr_tmax_abuja$RR
+z = 1.8591, n = 41, p-value = 0.06301
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.000000 5.478261
+sample estimates:
+Sen's slope 
+   2.374126
+
+Mann-Kendall trend test: Benin
+data:  nd_rr_tmax_benin$RR
+z = 1.2099, n = 39, p-value = 0.2263
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 101.0000000 6831.6666667    0.1364866
+
+Sen's slope: Benin
+data:  nd_rr_tmax_benin$RR
+z = 1.2099, n = 39, p-value = 0.2263
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -2.310345  5.411765
+sample estimates:
+Sen's slope 
+   1.714286
+
+
+Mann-Kendall trend test: Ibadan
+data:  nd_rr_tmax_ibadan$RR
+z = 1.1129, n = 39, p-value = 0.2657
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+  93.0000000 6833.6666667    0.1255061
+
+Sen's slope: Ibadan
+data:  nd_rr_tmax_ibadan$RR
+z = 1.1129, n = 39, p-value = 0.2657
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -1.942857  9.240000
+sample estimates:
+Sen's slope 
+   3.409091 
+
+
+Mann-Kendall trend test: Ilorin
+data:  nd_rr_tmax_ilorin$RR
+z = 0.56859, n = 39, p-value = 0.5696
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+4.800000e+01 6.832667e+03 6.482108e-02
+
+Sen's slope: Ilorin
+data:  nd_rr_tmax_ilorin$RR
+z = 0.56859, n = 39, p-value = 0.5696
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -3.090909  4.368421
+sample estimates:
+Sen's slope 
+          1
+
+
+Mann-Kendall trend test: Kano
+data:  nd_rr_tmax_kano$RR
+z = 3.8723, n = 39, p-value = 0.0001078
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 321.0000000 6829.0000000    0.4343724
+
+Sen's slope: Kano
+data:  nd_rr_tmax_kano$RR
+z = 3.8723, n = 39, p-value = 0.0001078
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+  4.25000 10.71429
+sample estimates:
+Sen's slope 
+   7.352941
+
+
+Mann-Kendall trend test: Lagos
+data:  nd_rr_tmax_lagos$RR
+z = 1.8387, n = 39, p-value = 0.06596
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 153.0000000 6833.6666667    0.2064777
+
+Sen's slope: Lagos
+data:  nd_rr_tmax_lagos$RR
+z = 1.8387, n = 39, p-value = 0.06596
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -0.5333333 12.0800000
+sample estimates:
+Sen's slope 
+       6.75
+
+
+Mann-Kendall trend test: PH
+data:  nd_rr_tmax_ph$RR
+z = 0.25405, n = 39, p-value = 0.7995
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+2.200000e+01 6.832667e+03 2.970966e-02
+
+Sen's slope: PH
+data:  nd_rr_tmax_ph$RR
+z = 0.25405, n = 39, p-value = 0.7995
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ -2.80  4.52
+sample estimates:
+Sen's slope 
+        0.5
+
+
+Mann-Kendall trend test: Sokoto
+data:  nd_rr_tmax_sokoto$RR
+z = 2.4316, n = 39, p-value = 0.01503
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 202.0000000 6832.6666667    0.2727887
+
+Sen's slope: Sokoto
+data:  nd_rr_tmax_sokoto$RR
+z = 2.4316, n = 39, p-value = 0.01503
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.60 5.64
+sample estimates:
+Sen's slope 
+        3.4
+
+
+TEMPERATURE	TEMPERATURE	TEMPERATURE	TEMPERATURE	TEMPERATURE
+========================================================================================================================
+Mann-Kendall trend test: Abuja
+data:  nd_rr_tmax_abuja$Tmax
+z = 2.8881, n = 41, p-value = 0.003876
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 258.0000000 7918.6666667    0.3161803
+
+
+Sen's slope: Abuja
+data:  nd_rr_tmax_abuja$Tmax
+z = 2.8881, n = 41, p-value = 0.003876
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.003846154 0.019230769
+sample estimates:
+Sen's slope 
+ 0.01077037
+
+
+Mann-Kendall trend test: Benin
+data:  nd_rr_tmax_benin$Tmax
+z = 4.5395, n = 39, p-value = 5.638e-06
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 376.0000000 6824.0000000    0.5105323
+
+Sen's slope: Benin
+data:  nd_rr_tmax_benin$Tmax
+z = 4.5395, n = 39, p-value = 5.638e-06
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.01333333 0.03000000
+sample estimates:
+Sen's slope 
+ 0.02117647
+
+
+Mann-Kendall trend test: Ibadan
+data:  nd_rr_tmax_ibadan$Tmax
+z = 3.9205, n = 39, p-value = 8.835e-05
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 325.0000000 6829.6666667    0.4397851
+
+Sen's slope: Ibadan
+data:  nd_rr_tmax_ibadan$Tmax
+z = 3.9205, n = 39, p-value = 8.835e-05
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.01250000 0.03117647
+sample estimates:
+Sen's slope 
+ 0.02142857
+
+
+Mann-Kendall trend test: Ilorin
+data:  nd_rr_tmax_ilorin$Tmax
+z = 3.8485, n = 39, p-value = 0.0001188
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 319.0000000 6827.6666667    0.4322529
+
+Sen's slope: Ilorin
+data:  nd_rr_tmax_ilorin$Tmax
+z = 3.8485, n = 39, p-value = 0.0001188
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.010000 0.031875
+sample estimates:
+Sen's slope 
+       0.02
+
+
+Mann-Kendall trend test: Kano
+data:  nd_rr_tmax_kano$Tmax
+z = 3.6054, n = 39, p-value = 0.0003117
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 299.0000000 6831.6666667    0.4040544
+
+
+Sen's slope: Kano
+data:  nd_rr_tmax_kano$Tmax
+z = 3.6054, n = 39, p-value = 0.0003117
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.01250000 0.03708333
+sample estimates:
+Sen's slope 
+ 0.02444444
+
+
+Mann-Kendall trend test: Lagos
+data:  nd_rr_tmax_lagos$Tmax
+z = 4.1758, n = 39, p-value = 2.97e-05
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 346.0000000 6826.0000000    0.4691578
+
+
+Sen's slope: Lagos
+data:  nd_rr_tmax_lagos$Tmax
+z = 4.1758, n = 39, p-value = 2.97e-05
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.01076923 0.03125000
+sample estimates:
+Sen's slope 
+ 0.02095238
+
+
+Mann-Kendall trend test: PH
+data:  nd_rr_tmax_ph$Tmax
+z = 4.7201, n = 39, p-value = 2.357e-06
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 391.0000000 6827.0000000    0.5298147
+
+Sen's slope: PH
+data:  nd_rr_tmax_ph$Tmax
+z = 4.7201, n = 39, p-value = 2.357e-06
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.01233333 0.02615385
+sample estimates:
+Sen's slope 
+ 0.01956522
+
+
+Mann-Kendall trend test: Sokoto
+data:  nd_rr_tmax_sokoto$Tmax
+z = 4.1377, n = 39, p-value = 3.507e-05
+alternative hypothesis: true S is not equal to 0
+sample estimates:
+           S         varS          tau 
+ 343.0000000 6831.6666667    0.4635139
+
+Sen's slope: Sokoto
+data:  nd_rr_tmax_sokoto$Tmax
+z = 4.1377, n = 39, p-value = 3.507e-05
+alternative hypothesis: true z is not equal to 0
+95 percent confidence interval:
+ 0.01611111 0.03645161
+sample estimates:
+Sen's slope 
+ 0.02785714
+
